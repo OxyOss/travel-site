@@ -26,4 +26,5 @@ nbproject
 *.komodoproject
 .komodotools
 _notes
-dwsync.xmlpackage-lock.json
+dwsync.xml
+package-lock.json
