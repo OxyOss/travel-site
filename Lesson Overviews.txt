@@ -17,3 +17,13 @@ Modifier - can be used on a block or an element to indicate a change to the defa
 - Makes the relationship between our HTML and CSS clear.
 
 There is no need to code a pattern more than once.
+
+Complete two blocks - CSS Architecture
+Lesson 15
+- large-hero block
+- button block
+
+REM - relative to root of the page.
+for font-size, padding, etc.
+
+Lesson 17 - Gulp organisation.
