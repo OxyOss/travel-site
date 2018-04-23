@@ -1,0 +1,19 @@
+Writing Organised CSS - Section 5, Lecture 13
+1. File architecture
+2. Identify patterns in design
+3. Rules to follow for creating class names and writing our CSS selectors.
+
+B.E.M Principles
+Popular abstract way of thinking about our interface.
+Block - an independent, reusable part of our design.
+Element - belongs to a block.  It cannot be used outside of the block that it belongs to.
+Modifier - can be used on a block or an element to indicate a change to the default state of an object.
+
+- CSS selectors should target elements directory with classes, instead of relying on type selectors, 
+	descendent selectors, and the cascade.
+- Because we are limiting cascade we are free to move blocks around and reuse them throughout the page.
+- Blocks can be nested inside other blocks.
+- Identify patterns, and then create single-responsibility blocks.
+- Makes the relationship between our HTML and CSS clear.
+
+There is no need to code a pattern more than once.
