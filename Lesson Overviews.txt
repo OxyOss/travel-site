@@ -27,3 +27,6 @@ REM - relative to root of the page.
 for font-size, padding, etc.
 
 Lesson 17 - Gulp organisation.
+
+Lesson 18 - Gulp Error Handling
+ - on error handling with console output.
