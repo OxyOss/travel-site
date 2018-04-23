@@ -30,3 +30,27 @@ Lesson 17 - Gulp organisation.
 
 Lesson 18 - Gulp Error Handling
  - on error handling with console output.
+ 
+Lesson 19 - what does "Mobile-First" mean?
+- Mobile-First can mean different things in different contexts
+- How does "mobile-first" apply to our Travel site?
+- begin writing css the "mobile-first" way.
+
+What is responsive web design?
+What are the shortcomings of traditional responsive web design?
+
+Design Context vs Development Context
+Designing around a smaller screen fist.
+Force us to prioritize our content
+Anticipate most common user actions.
+Information architects, graphic designers, usability experts
+
+vs
+Coding the site so devices don't download unnecessary data.
+Treat the most essential view of our website as our baseline and code upwards from there.
+Make the site load quickly for everyone.
+
+Not all projects you'll work on will include a mobile-view design comp.
+
+Even if we are only given a desktop design comp, there is no reason to not make every website
+you develop a mobile-first website.
