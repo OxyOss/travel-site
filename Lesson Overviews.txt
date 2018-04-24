@@ -54,3 +54,20 @@ Not all projects you'll work on will include a mobile-view design comp.
 
 Even if we are only given a desktop design comp, there is no reason to not make every website
 you develop a mobile-first website.
+
+Where do we begin with mobile-first development?
+- HTML
+- CSS
+- JavaScriptavaScript
+
+Lesson 20 - Responsive Images
+1. What is a responsive image and why do we need it?
+2. Example page: Two unique situations (two unique code patterns.)
+3. Apply what we've learned - begin adding responsive images to our travel website
+
+Responsive Image Situations
+1. Art direction and cropping situation - picture element
+2. Image resolution and file size situation (faster load times) - img tag with options.
+
+
+
