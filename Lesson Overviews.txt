@@ -80,5 +80,8 @@ Other "branch" topics
 1. "--no-ff" merge option.
 2. How to handle merge conflicts
 
+The no-ff option sets a specific commit for the merge.
 
+Lesson 31 - Flexbox
+The taught way to get the columns to have the same height for the transparent background in the testimonials section.
 
