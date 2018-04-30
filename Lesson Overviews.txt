@@ -85,3 +85,14 @@ The no-ff option sets a specific commit for the merge.
 Lesson 31 - Flexbox
 The taught way to get the columns to have the same height for the transparent background in the testimonials section.
 
+Lesson 32 - Gulp Timeout - Automatic Sprites with Gulp
+A sprite is a single image file with all of the icons.
+
+Lesson 39 - Javascript.
+What is Object-oriented programming?
+
+Object: something that has Data and Behaviour.
+  OR:   enity that has Nouns and Verbs.
+  
+Lesson 40: Staying Organised in JavaScript
+- Webpack
