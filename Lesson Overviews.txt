@@ -69,5 +69,16 @@ Responsive Image Situations
 1. Art direction and cropping situation - picture element
 2. Image resolution and file size situation (faster load times) - img tag with options.
 
+Lesson 27 - Git branches. Yay :)
+Goals:
+1. Understand what a branch is.
+2. How to create a new branch
+3. How to switch between branches.
+4. Merge one branch into another.
+
+Other "branch" topics
+1. "--no-ff" merge option.
+2. How to handle merge conflicts
+
 
 
