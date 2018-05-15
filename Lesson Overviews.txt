@@ -96,3 +96,13 @@ Object: something that has Data and Behaviour.
   
 Lesson 40: Staying Organised in JavaScript
 - Webpack
+
+Lesson 50: Building a Modal from Scratch (part 1)
+Overview:
+1. Take care of our Git branches
+2. HTML and CSS for the overlay - let it always display.
+3. JS to hide overlay initially and reveal on click.
+
+Lesson 51: Building a Modal from Scratch (Part 2)
+ (Create Our Own Modal / Overlay)
+ 
