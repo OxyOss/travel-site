@@ -114,3 +114,10 @@ Outline:
 
 Lesson 58 - Going Live  
 Goal: make our files as small as possible.
+Create a new Gulp task that automatically builds the "dist" folder for us.
+it 
+
+Goals for our CSS and JS:
+- Copy to dist folder
+- Compress file-size
+- Revision
