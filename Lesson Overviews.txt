@@ -106,3 +106,11 @@ Overview:
 Lesson 51: Building a Modal from Scratch (Part 2)
  (Create Our Own Modal / Overlay)
  
+Lesson 55: SVG support for legacy browsers
+Outline:
+1. Use Gulp to automatically create a PNG copy of out SVG icon sprite.
+
+2. Only send the PNG version to browsers that don't support SVG.  Use Modernizr to test web browser for SVG support.
+
+Lesson 58 - Going Live  
+Goal: make our files as small as possible.
